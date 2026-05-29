@@ -65,9 +65,9 @@ except Exception as e:
 # =====================================================================
 # 2. INTERFAZ GRÁFICA DE LA APLICACIÓN
 # =====================================================================
-st.title("⚽ Plataforma de Scouting Inteligente")
+st.title("Scouting Inteligente")
 st.markdown(
-    "Identifica perfiles y clones de rendimiento utilizando algoritmos de **Machine Learning (Nearest Neighbors & Cosine Distance)**.")
+    "Identifica perfiles de rendimiento similares utilizando algoritmos de **Machine Learning (Nearest Neighbors & Cosine Distance)**.")
 st.divider()
 
 # Barra lateral para parámetros de búsqueda
@@ -102,7 +102,7 @@ if jugador_seleccionado:
     info_target = df_filtrado.iloc[idx_jugador]
 
     # Contenedor del perfil seleccionado
-    st.subheader(f"👤 Perfil Analizado: {info_target['jugador(a)']}")
+    st.subheader(f"Perfil Analizado: {info_target['jugador(a)']}")
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         st.metric(label="Club Actual", value=info_target['Equipo'])
@@ -147,7 +147,7 @@ if jugador_seleccionado:
             break
 
     # Mostrar la tabla de resultados interactiva
-    st.subheader(f"🎯 Top {len(resultados)} Clones Potenciales Encontrados")
+    st.subheader(f"Top {len(resultados)} Clones Potenciales Encontrados")
     if resultados:
         df_resultados = pd.DataFrame(resultados).set_index('Ranking')
 
