@@ -1,0 +1,158 @@
+﻿jugador(a),Equipo,Minutos disputados,Posiciones,Edad,Asistencias p90,xG asistido p90,Pases filtrados p90,Asistencias a tiros p90,Centros precisos p90,Pases inteligentes p90
+G. Castro,Cartaginés,567,"ramf, rw, cf",24,0.48,0.33,0,0.95,1.59,0
+M. Torres,Deportivo Saprissa,1511,"amf, rcmf",39,0.36,0.28,1.07,2.5,1.13,0.24
+D. Masis,San Carlos,534,"lb5, lb, lwb",21,0.34,0.15,0,0.67,1.18,0
+E. Aguilar,Herediano,1332,"rcmf, rw, amf",34,0.34,0.28,1.08,3.11,0.61,0.14
+B. Alfaro,Cartaginés,589,"lcmf, rcmf, ldmf",29,0.31,0.13,0.31,1.07,0,0.15
+O. Sinclair,Deportivo Saprissa,600,"cf, lcmf",28,0.3,0.11,0,1.5,0.75,0.15
+J. Hernández,Municipal Liberia,976,"cf, lw",32,0.28,0.21,0.74,1.38,0.65,0.37
+A. Guevara,San Carlos,688,"lw, lcmf3, lwf",37,0.26,0.19,0.65,1.57,0.52,0.13
+Bancy Hernández,Deportivo Saprissa,1389,"lw, ramf, lamf",25,0.26,0.25,0.19,1.75,0.45,0.13
+G. Torres,Deportivo Saprissa,708,"rw, ramf",28,0.25,0.17,0.13,1.14,1.14,0
+J. Azofeifa,Deportivo Saprissa,1306,lb,25,0.21,0.11,0.69,0.41,0.76,0
+J. Venegas,San Carlos,1316,"rw, rwb, rb5",38,0.21,0.06,0.07,0.62,0.34,0
+Y. Hernández,Municipal Liberia,904,"lcmf, lcmf3, rcmf",30,0.2,0.11,0.4,0.9,0.9,0.2
+Á. Zaldívar,Alajuelense,885,"cf, amf, rw",32,0.2,0.03,0.31,0.41,0,0.1
+R. Márquez,Cartaginés,954,cf,28,0.19,0.09,0,0.85,0.19,0
+D. López,Cartaginés,1412,"rcmf, lcmf, cf",27,0.19,0.12,1.02,1.21,0.25,0.32
+Manuel Moran,Pérez Zeledón,1528,"rw, cf",28,0.18,0.12,0.12,0.94,1,0.06
+J. Ruiz,Guadalupe,983,"cf, amf",32,0.18,0.08,0.18,0.64,0.09,0
+I. Gómez,Puntarenas,1560,"lwb, lb5, lb",27,0.17,0.08,0.29,1.04,1.56,0
+R. Matarrita,Alajuelense,1638,"lb, lwb",31,0.16,0.21,0.77,1.76,1.15,0.05
+J. Rivera Stuart,Pérez Zeledón,1115,"rb, rb5",29,0.16,0.12,0.08,0.73,1.45,0.08
+G. Sibaja Pérez,Herediano,616,"rw, lw",17,0.15,0.09,0,1.02,1.17,0
+J. Campbell,Alajuelense,616,"cf, rcmf, amf",33,0.15,0.09,1.75,1.46,0.58,0.73
+M. Hernández,Herediano,1278,cf,36,0.14,0.11,0.14,0.7,0.07,0.14
+D. Mesén,Cartaginés,1324,rcb,27,0.14,0.04,0.2,0.41,0,0
+K. Vargas,Alajuelense,702,"lw, lamf, ramf",24,0.13,0.11,0.26,0.64,1.15,0
+R. Cisneros,Alajuelense,1412,cf,29,0.13,0.05,0,0.51,0.13,0
+R. Cordoba,San Carlos,1387,"rcmf, lcmf, rcmf3",27,0.13,0.12,0.97,0.84,0.45,0.06
+M. Ureña,Sporting San José,676,"cf, amf",36,0.13,0.05,0,0.53,0.27,0
+R. Araya,Herediano,689,"lw, lamf",26,0.13,0.23,0.52,1.57,1.04,0.39
+J. Valverde,Sporting San José,762,"rb, rb5, rw",30,0.12,0.14,0.71,1.06,0.35,0.12
+S. van der Putten,Alajuelense,730,"rcb, cb",21,0.12,0,0.12,0,0,0
+R. Leal,Herediano,728,"lw, rw, amf",29,0.12,0.08,0.37,1.11,1.36,0.25
+F. Coronado,Sporting San José,814,"rcmf, dmf, rdmf",24,0.11,0.11,0.11,0.44,0.11,0
+A. Bran,Alajuelense,1606,"lcmf, rcmf, ldmf",25,0.11,0.07,0.62,0.9,0.22,0.06
+D. González,Cartaginés,833,lb,30,0.11,0.11,0.32,1.19,1.19,0
+S. Acuña,Deportivo Saprissa,788,"rdmf, dmf, rcmf",23,0.11,0.01,0.23,0.34,0.11,0.11
+J. Mora,Cartaginés,833,"lw, lamf, ramf",22,0.11,0.04,0.11,0.43,0.32,0
+A. Murillo,Herediano,793,"rcmf, lcmf, lcmf3",28,0.11,0.03,0.45,0.68,0.23,0.11
+K. Waston,Deportivo Saprissa,1774,"lcb, rcb",38,0.1,0.04,0.41,0.41,0,0
+B. Martínez,San Carlos,907,cf,29,0.1,0.05,0,0.6,0,0
+J. Brenes,Deportivo Saprissa,900,"lcmf, ldmf",29,0.1,0.23,0.3,1.7,0.6,0.1
+C. Borges,Alajuelense,915,"rcmf, rdmf",38,0.1,0.2,0.79,1.77,0.49,0.1
+M. Villalobos Vega,Municipal Liberia,863,"lw, rcmf3, lcmf3",26,0.1,0.09,0.1,1.25,0.63,0
+A. Amador,Guadalupe,893,"lw, rw, lamf",25,0.1,0.13,0.4,0.6,0.71,0
+R. Taylor,Puntarenas,881,"lw, lamf, ramf",28,0.1,0.07,0.1,1.12,0.82,0.1
+T. Demetrius,Guadalupe,862,"cf, lw, rw",21,0.1,0.06,0.31,0.31,0.73,0
+E. Morales,Guadalupe,985,"lw, rw, lamf",26,0.09,0.14,0.27,1.46,0.91,0
+D. Rodríguez,Puntarenas,971,"cf, rw, ramf",23,0.09,0.05,0.09,0.74,0.09,0.09
+M. George,Sporting San José,978,cf,32,0.09,0.02,0.18,0.74,0,0.18
+L. Díaz,Sporting San José,979,"rw, rcmf3",27,0.09,0.05,0.09,0.46,0.92,0
+R. Parkins,Alajuelense,998,"dmf, lcmf, ldmf",25,0.09,0,0.54,0.18,0,0
+W. Francis,Municipal Liberia,1026,"lcb3, lb5, lb",35,0.09,0.07,0.44,0.79,0.61,0.09
+K. Villalobos Chavarría,Puntarenas,972,"lcb3, lb, lwf",30,0.09,0.09,0.37,0.83,0.93,0
+R. Rivera,San Carlos,1108,"rcb3, rb, rwb",27,0.08,0.04,0.73,0.16,0.65,0
+L. Paradela,Deportivo Saprissa,1132,"lw, lamf, ramf",29,0.08,0.14,0.24,1.35,0.8,0.08
+C. Perez,Alajuelense,1149,"lw, rw, rcmf",21,0.08,0.09,0.31,1.17,0.94,0
+C. Barahona,Cartaginés,1131,rb,23,0.08,0.05,0.64,0.56,1.35,0.24
+R. Carballo,Puntarenas,1212,cf,30,0.07,0.08,0,0.82,0.15,0
+G. Castillo,San Carlos,1368,"lb, lb5, lwb",24,0.07,0.03,0.59,0.46,0.59,0
+J. Guadamúz,Municipal Liberia,1471,"lb5, lb, lw",21,0.06,0.05,0.73,0.92,0.86,0
+M. Pereira,Cartaginés,1408,"lcb, rcb",31,0.06,0.03,0.13,0.32,0.19,0
+J. Rubio,Herediano,1619,"lcb, lcb3",29,0.06,0.03,0.72,0.17,0.11,0
+C. Reyes,Municipal Liberia,1459,"lcb, lcb3, rcb3",30,0.06,0.02,0.12,0.19,0,0
+S. Rodríguez,Herediano,1585,"dmf, rcb3, lcmf",30,0.06,0.04,0.57,0.17,0.11,0.17
+L. Hernández,Pérez Zeledón,1554,"lb, lb5",28,0.06,0.06,0.41,0.75,0.58,0.12
+C. Núñez,Cartaginés,1584,"cf, amf, lcmf",28,0.06,0.08,0.28,0.74,0.06,0.17
+U. Segura,Puntarenas,1389,"lcmf, rcmf, amf",32,0.06,0.14,0.91,1.43,0.39,0.32
+K. Gómez,Puntarenas,1434,"rb5, rwb, rb",26,0.06,0.22,0.25,1.38,1.63,0.06
+E. Pastrana,Pérez Zeledón,1492,lcb,26,0.06,0.04,0.84,0.3,0.18,0.06
+A. Soto,San Carlos,1575,"lw, cf, lcmf",23,0.06,0.1,0.23,0.8,0.51,0.06
+S. Zúñiga,Cartaginés,1683,"lb, rw",29,0.05,0.08,1.02,1.12,0.96,0.11
+W. Fernández,Pérez Zeledón,1726,"rcb, lcb",32,0.05,0,0.57,0.05,0,0.05
+L. Flores,Cartaginés,1668,"rcmf, lcmf, ldmf",32,0,0.04,1.03,0.54,0.27,0.11
+S. Lucumí,Alajuelense,677,"lw, cf, lamf",31,0,0.13,0.27,1.86,0.27,0.4
+R. Blanco,Deportivo Saprissa,777,rb,37,0,0.02,0.46,0.69,1.16,0
+J. Leiva,Puntarenas,600,"rcmf, rdmf",33,0,0.03,0.3,0.15,0.15,0
+J. Aguirre,Pérez Zeledón,905,"lcmf, rcmf, dmf",35,0,0.02,0.2,0.5,0.3,0.2
+R. Miranda,Guadalupe,1575,"cb, lcb, rcb",30,0,0.01,0.11,0.17,0.06,0
+D. Ramírez Bolaños,Sporting San José,666,"lw, rw, cf",21,0,0.01,0,0.27,0.27,0
+A. Rodríguez,Deportivo Saprissa,538,cf,36,0,0.11,0.5,1.17,0.17,0.33
+E. Torres,Municipal Liberia,1121,cf,33,0,0.02,0,0.4,0,0
+Y. Piedra,San Carlos,936,"lcb3, lcb",32,0,0,0.38,0.1,0,0
+J. Agüero,San Carlos,1748,"cb, lcb, rcb",32,0,0,0.15,0.05,0.05,0
+A. Matarrita,Deportivo Saprissa,563,"dmf, lcb3, rb",21,0,0.06,0.8,0.32,0.32,0.16
+A. Hudson,Municipal Liberia,991,"rw, rb5, cf",20,0,0.08,0.18,0.64,0.82,0
+A. Hernández,Alajuelense,905,"rw, ramf, lcmf",24,0,0.09,0.2,0.8,0.8,0.2
+Alejandro Porras,Pérez Zeledón,739,"rcmf, lcmf, rdmf",30,0,0.01,0,0.24,0.12,0
+B. Segura,Pérez Zeledón,1156,gk,29,0,0,0,0,0,0
+Claudio Montero,Cartaginés,567,"rw, cf, ramf",20,0,0.1,0,0.32,1.11,0
+D. Guzmán,Deportivo Saprissa,922,"ldmf, dmf, rcmf",36,0,0.05,0.49,0.98,0.1,0
+K. Fajardo,Guadalupe,714,"lcb3, lcb",36,0,0,0.25,0,0.25,0.13
+A. Soto,Sporting San José,1520,"lcb, lcb3",34,0,0,0.59,0.24,0.18,0
+J. Venegas,Cartaginés,692,"cf, amf",37,0,0.05,0.13,0.52,0.13,0.26
+J. Mora,Deportivo Saprissa,555,"lb, lwb",33,0,0.01,0,0.49,0.32,0
+L. Moreira,Sporting San José,1646,gk,36,0,0,0.05,0,0,0
+F. Khatami,Puntarenas,1385,"lcb3, lcmf, lcb",21,0,0,0.32,0.13,0.13,0
+M. Angulo,Guadalupe,1535,"lcmf, rcmf, ldmf",39,0,0.07,0.64,1.23,0.06,0.18
+J. Huertas,Municipal Liberia,1117,"cb, rcb, rb",31,0,0,0.16,0.08,0.24,0
+D. Carvajal,Herediano,1642,gk,37,0,0,0.05,0,0,0
+K. Brown,Herediano,1232,"rcb, cb, lcb",34,0,0,0,0,0,0
+M. Pereira,Pérez Zeledón,1217,cf,21,0,0.07,0.15,0.81,0.37,0
+K. Gutiérrez,Puntarenas,628,"cb, rcb, rcb3",36,0,0,0.14,0,0.29,0
+G. González,Sporting San José,1568,"rcb, cb",38,0,0.03,0.34,0.23,0,0
+Al. López,Sporting San José,1262,"rcmf, lcmf, lcmf3",33,0,0.17,2,2.28,0.29,0.14
+J. Delgado,Guadalupe,711,gk,32,0,0,0,0,0,0
+S. Taylor,Deportivo Saprissa,1634,"rb, rb5",22,0,0.01,0.11,0.28,0.28,0.06
+J. Aguilar,San Carlos,1171,"cf, rw, amf",31,0,0.15,0.08,0.77,0.15,0
+D. Colindres,Puntarenas,921,"lwf, cf, lw",41,0,0.06,0.29,1.07,0.39,0
+K. Briceño,Cartaginés,1867,gk,34,0,0,0.24,0,0,0
+C. Martínez,San Carlos,1415,"lcmf, dmf, cb",32,0,0.03,0.32,0.25,0,0
+A. Cruz,Herediano,1003,"lcmf, rcmf, cf",30,0,0.07,0.63,0.54,0.18,0.36
+S. Johnson,Municipal Liberia,1462,"rb5, rb, rw",23,0,0.02,0.49,0.31,0.8,0.18
+M. González,San Carlos,1547,gk,29,0,0,0.23,0,0,0
+A. Salazar,Alajuelense,1451,"rcb, rcb3, rb",27,0,0.01,0.12,0.31,0.37,0
+C. Pineda,Sporting San José,965,"lcmf, rcmf",28,0,0,0,0.28,0,0
+F. Faerrón,Cartaginés,1025,lcb,25,0,0.01,0.97,0.35,0,0.18
+F. Piñar,Alajuelense,1094,rb,24,0,0.01,0.08,0.25,0.16,0
+A. Sinclair,Puntarenas,732,"rcmf, lcmf, rdmf",26,0,0.01,0.37,0.25,0.12,0
+G. Villalobos,Alajuelense,1357,"lcb, rcb, cb",24,0,0,0.86,0,0,0.07
+K. Fuller,Herediano,857,"rb, rw, rb5",31,0,0.04,0,0.42,0.84,0
+P. Fonseca,San Carlos,625,"rcb3, rb",27,0,0.01,0.58,0.14,0,0
+A. Gamboa,Alajuelense,737,"lcb, lcb3",27,0,0,0.61,0.12,0,0
+J. Gaete,Cartaginés,737,"lw, rw, lamf",29,0,0.09,0.24,0.85,0.61,0.12
+Junior Maleck,Guadalupe,823,cf,27,0,0.01,0.11,0.55,0,0
+H. Quirós,Herediano,1236,"rb, rb5",27,0,0.02,0.36,0.66,1.24,0.07
+R. Rodríguez,Pérez Zeledón,930,"rcb, rb",23,0,0,0.1,0,0.19,0
+J. Navarro,Sporting San José,817,"cf, lw",27,0,0.01,0.22,0.66,0.33,0
+K. Guzmán,Guadalupe,1361,"rcb, rcb3",29,0,0,0.6,0.07,0,0
+D. Araya,Herediano,1475,"lb, lb5, lw",25,0,0.11,0.49,0.67,1.34,0.12
+Y. Molina,Municipal Liberia,1544,"rcb3, rcb",30,0,0,0,0.06,0,0
+R. Cole,Puntarenas,759,"rw, rwf, amf",27,0,0.02,0,0.36,0.59,0
+K. Porras,Pérez Zeledón,1063,lw,25,0,0.05,0,0.59,0.59,0
+Tomás Rodriguez,Deportivo Saprissa,1327,cf,27,0,0.03,0,0.41,0.2,0
+R. Bolaños,Sporting San José,996,lb,27,0,0.07,0.63,0.72,0.81,0
+R. Ramírez,Municipal Liberia,699,"lw, lcmf3, cf",22,0,0.07,0.13,0.39,0.64,0.13
+B. Bonilla,Guadalupe,741,"rcmf, lb5, rdmf",29,0,0,0.24,0.24,0.85,0
+W. Ortega,Alajuelense,1452,gk,31,0,0.03,0.06,0.06,0,0
+K. Cerdas,San Carlos,908,"cf, rcmf, lw",30,0,0.14,0.79,1.09,0.5,0
+G. Taylor,Deportivo Saprissa,1525,"rb, dmf",25,0,0.02,0.35,0.47,0.35,0
+J. Méndez,Sporting San José,1551,"cf, lw",24,0,0.11,0.17,0.99,0.35,0.06
+A. Monreal,Municipal Liberia,1701,gk,31,0,0,0.26,0,0,0
+Y. Salinas,Sporting San José,891,"rb, rcb3, rb5",27,0,0.01,0.1,0.2,0.81,0
+G. Méndez,Guadalupe,1666,"lb, lb5",34,0,0.02,0.16,0.38,0.11,0
+G. Montes,Herediano,784,"rcb, rcb3, cb",29,0,0.03,0.57,0.11,0,0
+W. Decas,Puntarenas,1505,"cb, lcb, lcb3",26,0,0.03,0.42,0.3,0.12,0
+A. Pineda,Puntarenas,1709,gk,29,0,0.02,0.05,0.05,0,0
+M. Ajú,Pérez Zeledón,598,gk,26,0,0,0,0,0,0
+P. Arboine,Deportivo Saprissa,1628,rcb,28,0,0,0.33,0.06,0.11,0
+A. Madriz,Deportivo Saprissa,1774,gk,22,0,0,0.1,0,0,0
+F. Lesme,Municipal Liberia,549,cf,24,0,0.08,0,0.33,0,0
+B. Sequeira,Municipal Liberia,688,"rb, rw",28,0,0.06,0.52,0.78,0.52,0
+K. Espinoza,Sporting San José,561,"rcb3, rcb",29,0,0.03,0.16,0.16,0,0
+L. Ayala,Guadalupe,642,"lcb, lcb3, lcmf",28,0,0.01,0.42,0.28,0,0
+R. Leal,Guadalupe,1025,gk,24,0,0.02,0.09,0.09,0,0
+H. Muñoz,Puntarenas,1490,"rcb3, rcb, rb",31,0,0.03,0.48,0.3,0.42,0
+E. Drummond Arroyo,Pérez Zeledón,903,"lcmf, dmf, rcmf",20,0,0.02,0.2,0.4,0.1,0
